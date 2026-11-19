@@ -13,7 +13,7 @@ A clean, box-styled Termux command-line utility to check WhatsApp number availab
 ```bash
 pkg update && pkg upgrade -y
 pkg install python git -y
-git clone [https://github.com/sajjadulkhanabir143/WA-Number-Checker.git](https://github.com/sajjadulkhanabir143/WA-Number-Checker.git)
+git clone https://github.com/sajjadulkhanabir143/WA-Number-Checker.git
 cd WA-Number-Checker
 pip install -r requirements.txt
 python wa_checker.py
